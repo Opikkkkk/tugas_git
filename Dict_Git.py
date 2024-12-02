@@ -1,4 +1,4 @@
-print("Versi 2")
+print("Versi 3")
 
 data_panen = {
     'lokasi1': {
