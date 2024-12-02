@@ -1,6 +1,6 @@
 print("Versi 3")
 print("Perubahan pada Branch 1")
-print("perubahan pada branch 1")
+print("berubah Branch 1")
 
 data_panen = {
     'lokasi1': {
